@@ -1,7 +1,3 @@
-# save-ftp-folder
-Littre scrpt to help you:
-
-
 Il suffit de mettre le script sur votre serveur pour effacer vos sauvegardes après les avoir envoyés sur un autre serveur via FTP !
 Pour cela :
 
