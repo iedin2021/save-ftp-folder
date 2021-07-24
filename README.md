@@ -1,13 +1,13 @@
 Il suffit de mettre le script sur votre serveur pour effacer vos sauvegardes après les avoir envoyés sur un autre serveur via FTP !
 Pour cela :
 
-# dossier à sauvegarder 
+#dossier à sauvegarder 
 SPASIFOLDER="***"
-# Serveur ftp 
+#Serveur ftp 
 FTPHOST="***"
-# Nom d’utilisateur ftp
+#Nom d’utilisateur ftp
 FTPUSER="***"
-# Mot de passe ftp
+#Mot de passe ftp
 FTPPASS="***"
 #Dossieur ou sauvegarder
 FTPDIR="***"
